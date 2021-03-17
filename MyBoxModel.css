@@ -1,0 +1,75 @@
+body {
+	margin-right: auto;
+	margin-left: auto;
+	margin: 0;  /*default space outside the object body*/
+	width: 1920px; /*/set default width*/  /*commented out*/
+	height: 100%;  /*/set default to the height of window*/ /*commented out*/
+}
+img {/* holder for any image attributes*/
+		
+}
+
+.containerBig {
+	
+	width: 1440px; 
+	height: 1024px;  
+	background-color: white;
+	position: absolute;
+}
+#box1 {
+	margin-top: 100px;
+	margin-left: 120px;
+	width: 1200px; 
+	height: 824px;  
+	background-color: white;
+	float:left; /*The float property specifies how an element should float.*/
+
+}
+
+#boxSide{
+	width: 236px; 
+	height: 824px;  
+	background-color: white;
+	float:left; /*The float property specifies how an element should float.*/
+
+}
+
+#boxMiddle{
+	width: 720px; 
+	height: 824px;  
+	padding-left: 8px;
+	background-color: white;
+	float:left; /*The float property specifies how an element should float.*/
+
+}
+
+#boxSideTopLeft{
+	width: 236px; 
+	height: 24px; 
+	margin-top: 500px;
+	margin-left: 65px;
+	background-color: white;
+	float:left; /*The float property specifies how an element should float.*/
+
+}
+
+#boxSideTopRight{
+	width: 216px; 
+	height: 24px; 
+	margin-top: 500px;
+	margin-left: 20px;
+	background-color: white;
+	float:left; /*The float property specifies how an element should float.*/
+
+}
+
+#boxSideBot{
+	width: 216px; 
+	height: 245px;
+	margin-left: 20px;
+	margin-top: 55px;  
+	background-color: white;
+	float:left; /*The float property specifies how an element should float.*/
+
+}
+
