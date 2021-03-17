@@ -1,1 +1,47 @@
-# 47test
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>my Box</title>
+	<!-- Stylesheets --> 
+	<link href="MyBoxModel.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<!--div class="container">
+		<div id="mast"></div--><!--THIS IS COMMENTED OUT!-->
+
+	<div class="containeBig">
+		<div id="box1"> 
+			<div id="boxSide">
+				<div id="boxSideTopLeft">
+					<a href="work.html"><img src = work.png></a>
+				</div>
+				<div id="boxSideBot"></div>	
+			</div>
+			<div id="boxMiddle">
+				<img src = logo.png>
+			</div>
+			<div id="boxSide">
+				<div id="boxSideTopRight">
+					<a href="about.html"><img src = about.png></a>
+				</div>
+				<div id="boxSideBot">
+					<a href="resume.html"><img src = resume.png></a>
+				</div>
+			</div>
+
+		</div>
+
+	</div>	
+
+</body>
+</html>
+
+
+		<!--p class ="hash">this is a second of text in the default 16 px height. <br>
+		there is roughly 3 pixels of "leading" or vertical space above the line of text. </p>
+		
+		<img src="motowings.jpg"-->
+
+		<!--div id="mast"></div-->
